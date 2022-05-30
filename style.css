@@ -1,0 +1,46 @@
+
+* {
+    font-family: cursive;
+    outline: 1px dotted rebeccapurple;
+}
+.help {
+    margin-top: 40px;
+    height: 20%;
+    width: 40%;
+    border: 5px solid black;
+    margin-left: 80px;
+}
+
+
+.down {
+    text-align: center;
+}
+
+
+.up {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.up h3 {
+    font-size: x-large;
+}
+
+.like {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.up button {
+    height: 40%;
+    width: 40%;
+    background-color: #FFD966;
+    box-shadow: 4px 4px black;
+}
+
+.down p {
+    font-size: x-large;
+}
